@@ -87,6 +87,7 @@ section{
 }
 .last-1{
     background-color: dodgerblue;
+    border-radius: 10px;
 }
 #last{
     color: black;
@@ -110,4 +111,7 @@ section{
 .gmail{
     color: cyan;
     text-align: center;
+}
+.class-3{
+    border-radius: 10px;
 }
