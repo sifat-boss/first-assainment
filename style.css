@@ -18,6 +18,7 @@ body{
     width: 50%;
     margin: 20px;
     padding: 20px;
+    border-radius: 10px;
 }
 
 .first-section-div image{
@@ -36,7 +37,7 @@ body{
     text-align: center;
 }
 #image-1{
-    height: 150px;
+    height: 180px;
     width: 90px;
 }
 .sifat{
